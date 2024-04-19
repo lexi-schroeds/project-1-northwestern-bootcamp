@@ -4,7 +4,7 @@
 <br>
 <br>
 <b>Requirements</b><br>
-<b>Completed Analysis Uploaded to GitHub (20 points)</b> - refer to AirBnB Analysis > AirBnB_vFinal.ipynb <br>
+<b>Completed Analysis Uploaded to GitHub (20 points)</b> - refer to AirBnB Analysis > AirBnB_vFinal.ipynb
 <ul>Final data analysis contains ample and complete information in README file (10 points) - refer to this README file<br>
   Final repository is acceptable for professional quality presentation (10 points) - refer to this repository </ul>
 <br>
