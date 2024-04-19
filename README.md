@@ -9,10 +9,11 @@
   Final repository is acceptable for professional quality presentation (10 points) - refer to this repository </ul>
 <br>
 <b>Visualizations (20 points)</b><br>
-6–8 visualizations of data (at least two per question) (10 points)
-Clear and accurate labeling of images (5 points)
-Visualizations supported with ample and precise explanation (5 points)
-Analysis and Conclusion (20 points)
+<ul>6–8 visualizations of data (at least two per question) (10 points)- refer to AirBnB Analysis > AirBnB_vFinal.ipynb
+<br>Clear and accurate labeling of images (5 points) - refer to AirBnB Analysis > AirBnB_vFinal.ipynb
+<br>Visualizations supported with ample and precise explanation (5 points) - refer to AirBnB Analysis > AirBnB_vFinal.ipynb</ul>
+<br>
+<b></b>Analysis and Conclusion (20 points)- refer to AirBnB Analysis > Airbnb Market Analysis_ 2023_vFinal.pptx</b>
 Write-up summarizes major findings and implications at a professional level (5 points)
 Each question in the project proposal is answered with precise descriptions and findings (5 points)
 Findings are strongly supported with numbers and visualizations (5 points)
