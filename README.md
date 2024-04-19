@@ -1,13 +1,14 @@
 # project-1-northwestern-bootcamp
-Repository for Data Science &amp; Visualization Bootcamp Project #1
+<b>Repository for Data Science &amp; Visualization Bootcamp Project #1</b>
 <br> Group 4: Abigail Dichie, Brittany Hammond, Lexi Schroeder, and Vlad Koledin
 <br>
 <br>
 <b>Requirements</b><br>
-Completed Analysis Uploaded to GitHub (20 points) - refer to AirBnB Analysis > AirBnB_vFinal.ipynb 
-Final data analysis contains ample and complete information in README file (10 points) - refer to this README file
-Final repository is acceptable for professional quality presentation (10 points)
-Visualizations (20 points)
+Completed Analysis Uploaded to GitHub (20 points) - refer to AirBnB Analysis > AirBnB_vFinal.ipynb <br>
+Final data analysis contains ample and complete information in README file (10 points) - refer to this README file <br>
+Final repository is acceptable for professional quality presentation (10 points) <br>
+<br>
+<b>Visualizations (20 points)</b><br>
 6–8 visualizations of data (at least two per question) (10 points)
 Clear and accurate labeling of images (5 points)
 Visualizations supported with ample and precise explanation (5 points)
