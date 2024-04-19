@@ -2,6 +2,7 @@
 Repository for Data Science &amp; Visualization Bootcamp Project #1
 <br> Group 4: Abigail Dichie, Brittany Hammond, Lexi Schroeder, and Vlad Koledin
 <br>
+<br>
 <b>Requirements</b><br>
 Completed Analysis Uploaded to GitHub (20 points) - refer to AirBnB Analysis > AirBnB_vFinal.ipynb 
 Final data analysis contains ample and complete information in README file (10 points) - refer to this README file
