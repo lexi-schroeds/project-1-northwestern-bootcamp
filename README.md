@@ -19,7 +19,7 @@ Each question in the project proposal is answered with precise descriptions and 
 Findings are strongly supported with numbers and visualizations (5 points)<br>
 Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis) (5 points)</ul>
 <br>
-<b>Group Presentation (20 points) <i></i>- refer to recording on 4/18</i></b>
+<b>Group Presentation (20 points)<i> - refer to recording on 4/18</i></b>
 <ul>All group members spoke during the presentation (5 points)<br>
   <ul>Our presentation plan was as follows:<br>
   Introduction, incl. Background, Approach & Agenda (Brittany) - pages 1-5<br>
@@ -30,7 +30,7 @@ Each question response is supported with a well-discerned statistical analysis f
   Presentation is relevant to material (5 points)<br>
   Presentation maintains audience interest (5 points)</ul>
 <br>
-<b>Slide Deck<i> - refer to AirBnB Analysis > Airbnb Market Analysis_ 2023_vFinal.pptx(20 points)</i></b>
+<b>Slide Deck (20 points)<i> - refer to AirBnB Analysis > Airbnb Market Analysis_ 2023_vFinal.pptx</i></b>
 <ul>Slides are visually clean and professional (5 points)<br>
 Slides are relevant to material (5 points)<br>
 Slides effectively demonstrate the project (5 points)<br>
